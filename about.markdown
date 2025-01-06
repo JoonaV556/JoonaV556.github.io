@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am a passionate game developer and a 4th year XR Design student. I like to build games and applications on my free time. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I currently work as a software developer intern at Helsinki XR Center, developing VR/AR games and application prototypes with Unity, C# and other relevant technologies . I have solid teamwork & communication skills which have been put to test at hackathons and work projects.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Although a bit shy at first, I am very friendly and love to help & support others when needed :)
