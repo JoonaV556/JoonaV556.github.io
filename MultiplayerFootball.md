@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Multiplayer Football
+title: Physics-Based Football
 permalink: /multiplayer-football/
 ---
-Physics-based multiplayer football game built with Unity and photon 2 networking lib
+Source code & assets (code in /Assets/Scripts/)
