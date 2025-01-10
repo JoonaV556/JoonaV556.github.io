@@ -4,8 +4,6 @@ title: Physics-Based Multiplayer Football
 permalink: /multiplayer-football/
 ---
 
-![Football!](/images/football.jpg "Football")
-
 [Source code](https://github.com/JoonaV556/Multiplayer-Football)
 (code inside /Assets/Scripts/)  
 *All code inside /Assets/... is written by me and utilizes Photon Fusion 2 for multiplayer features*
@@ -33,4 +31,6 @@ Planned features:
 
 Tech stack:
 - Unity 6
-- Photon Fusion 2 networking library
+- Photon Fusion 2 networking library  
+
+![Football!](/images/football.jpg "Football")
