@@ -17,6 +17,10 @@ GameRAT, a project funded by EMIL Horizon Europe, provides an innovative remote 
 
 ### My Role - Unity Development
 [//]: # (xr app  (some important systems, busy/lots of responsibilities))
+- C# Programming & Debugging
+- Gameplay programming
+- UI / UX programming
+- Profiling & optimization for Meta Quest 3 Mixed Reality Headset
 
 In the GameRAT project, I am responsible for developing the XR application for patients. Designed collaboratively at HXRC, I have independently developed two of the four total minigames in the application—**Froggo** and **RowTheBoat** (work in progress)—while also assisting in the development of the other two games. Beyond the games, I have implemented several core program components, including the patient movement tracking system. This system records movement data as bone orientations, stores it, and transmits it to a custom backend server for professional analysis.     
 

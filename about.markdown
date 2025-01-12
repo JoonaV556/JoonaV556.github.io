@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-I am a passionate game developer and a 4th year XR Design student. I like to build games and applications on my free time. 
+I am a multidisciplinary games and software developer specializing in Virtual and Mixed Reality applications. Additionally, I am a hobbyist video game developer with a strong interest technology, art, and UX design.
 
-I currently work as a software developer intern at Helsinki XR Center, developing VR/AR games and application prototypes with Unity, C# and other relevant technologies . I have solid teamwork & communication skills which have been put to test at hackathons and work projects.
+Currently, I work as a Software Developer Intern at the Helsinki XR Center, where I develop VR/AR games and application prototypes using Unity, C#, and other relevant technologies. I have solid teamwork and communication skills, honed through participation in hackathons and collaborative work projects.
 
 Although a bit shy at first, I am very friendly and love to help & support others when needed :)
