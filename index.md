@@ -1,7 +1,7 @@
 [# JoonaV556.github.io]: #
-## Projects (Personal & Work)
+## Projects
 
-[GameRat](https://joonav556.github.io//gamerat//)
+[GameRAT - (Gamified Joint Rehabilitation, Analysis and Training)](https://joonav556.github.io//gamerat//)
 ![GameRat!](/images/gamerat_web.jpg "GameRat")  
 
 [Multiplayer Football](https://joonav556.github.io//multiplayer-football//)
