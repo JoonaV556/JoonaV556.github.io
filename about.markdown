@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-I am a multidisciplinary games and software developer specializing in Virtual and Mixed Reality applications. Additionally, I am a hobbyist video game developer with a strong interest technology, art, and UX design.
+I am a multidisciplinary games and software developer specializing in Virtual and Mixed Reality applications. Additionally, I am a hobbyist video game developer with a strong passion for designing gameplay mechanics and systems.
 
 Currently, I work as a Software Developer Intern at the Helsinki XR Center, where I develop VR/AR games and application prototypes using Unity, C#, and other relevant technologies. I have solid teamwork and communication skills, honed through participation in hackathons and collaborative work projects.
 
