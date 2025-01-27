@@ -1,0 +1,32 @@
+todo 
+- gamerat images & videos
+- 2D shooter recoil system
+
+----------------------------------
+legacy / first projects
+    folio Website
+    web stuff
+    kartal app
+    ue4 archviz
+    unity ITSE RPG
+
+templates
+    game
+        (if) play link
+        (if) source code - repo link
+        project description (short)
+        My responsibilities
+        features
+        tech stack
+
+misc. 
+remove football from top bar
+adjust image sizes
+
+folioprojects:
+    XR Center projects
+        GameRat
+        SkillBill
+
+    dungeon crawler rpg w/ webgl itcio build / exe
+    pixel wave shooter w/ webgl icthcio build / exe
