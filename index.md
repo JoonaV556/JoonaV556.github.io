@@ -7,6 +7,9 @@
 [Multiplayer Football](https://joonav556.github.io//multiplayer-football//)
 ![Football!](/images/football.jpg "Football")  
 
+[SkillBill - Educational VR Simulations](https://joonav556.github.io//skillbill//)
+![SkillBill!](/images/skillbill_cover.png "SkillBill")  
+
 [Jump Up](https://joonav556.github.io//jump-up//)  
 ![jumpup!](/images/jump_up.jpeg "jumpup")
 
