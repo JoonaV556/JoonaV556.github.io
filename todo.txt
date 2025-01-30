@@ -1,4 +1,7 @@
 todo 
+- skillbill page (text only)
+- make front page images smaller
+- skillbill iages and videos
 - gamerat images & videos
 - 2D shooter recoil system
 
